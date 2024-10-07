@@ -1,3 +1,3 @@
-## Welcome to Git
-- Changes are made from `dev-bruce` branch
+## Heyoo everyone, welcome to my Git guide
+- Yoo, Johnny here
  - This is a `git crash course`
