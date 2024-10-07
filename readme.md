@@ -1,3 +1,3 @@
-## Good morning everyone
-- Yo, I invite your to checkout my codes. They're **awesome**
+## Welcome to Git
+- Changes are made from `dev-bruce` branch
  - This is a `git crash course`
